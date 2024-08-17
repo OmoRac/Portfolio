@@ -1,0 +1,3 @@
+# Make sure the you have pip so you can install flask and mysql-connector-python
+# Make sure to create the games_review database on sql with the necessary reviews table
+# Make sure the app.py file is running first before running the main.py file

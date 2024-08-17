@@ -1,0 +1,3 @@
+USER = "your_username"
+PASSWORD = "your_password"
+HOST = "your_host"
